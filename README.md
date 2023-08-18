@@ -1,4 +1,6 @@
 [Logo](https://www.canva.com/design/DAFr2y8sOOM/4FTZ1Wn8xTdBaqQx88A23g/view?utm_content=DAFr2y8sOOM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) 
+
+
 # NeoAminix
 NeoAminix is a cutting-edge decentralized finance (DeFi) platform, harnessing the power of the VeChain organization's technology. Experience a new era of financial possibilities through NeoAminix's innovative solutions and seamless integration with the VeChain ecosystem.
 
