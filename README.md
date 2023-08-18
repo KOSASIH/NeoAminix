@@ -11,3 +11,14 @@ NeoAminix is a cutting-edge decentralized finance (DeFi) platform, harnessing th
     frameborder="0"
     allowtransparency="true"
 ></iframe>
+
+# Buy
+
+<iframe 
+    name="Buy VET"
+    src="https://swap.vechain.energy/iframe/64dda0d5e77b8183370c2b0c/fiat"
+    width="840"
+    height="840"
+    frameborder="0"
+    allowtransparency="true"
+></iframe>
